@@ -16,7 +16,8 @@ I enjoy working with modern architectures, automating repetitive tasks, and divi
 🌿 **Express.js + Node.js** – Stepping into the JavaScript backend world and digging into the ecosystem.  
 🐍 **Python** – Interested in its potential for backend services, automation, and ML applications. Have used it in the past mainly for Django development and scripting.  
 🤖 **AI All the Things** – Experimenting with AI integrations, LLMs, and learning where it fits into life.  
-ʕ◔ϖ◔ʔ **Go** - Just dipping my toes in on this one.
+ʕ◔ϖ◔ʔ **Go** - Just dipping my toes in on this one.  
+🐦 **Swift** - Who doesn't want to make apps for their own phone?  
 
 ## Let’s Connect  
 I’m always up for talking shop—whether it’s about engineering best practices, new technologies, or whatever you’re hacking on. Feel free to connect or reach out:  
