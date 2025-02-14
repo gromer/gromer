@@ -1,9 +1,4 @@
-# Hello, world! I’m Mike ✌️🤘  
-
-I build things. I break things. I make things better.  
-
-## About Me  
-I’m a software engineer with a passion for designing scalable systems, writing maintainable code, and learning how things work under the hood. **Professionaly**, I'm deep into the Microsoft ecosystem, architecting and implementing reliable and scalable financial systems that facilitate over $2.5B in new loans per year. **Personally**, I'm having the time of my life exploring how AI can be integrated into many aspects of life.
+  I’m a software engineer with a passion for designing scalable systems, writing maintainable code, and learning how things work under the hood. **Professionaly**, I'm deep into the Microsoft ecosystem, architecting and implementing reliable and scalable financial systems that facilitate over $2.5B in new loans per year. **Personally**, I'm having the time of my life exploring how AI can be integrated into many aspects of life.
 
 I enjoy working with modern architectures, automating repetitive tasks, and diving into complex problems that need creative solutions. I believe in **clean code, continuous learning, and sharing knowledge with others**.  
 
